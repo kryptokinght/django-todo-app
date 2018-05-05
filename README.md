@@ -34,5 +34,5 @@ Navigate to **localhost://8000** on your favourite browser to see the app in act
 # Contribution
 Feel free to contribute to the project. You can look for features to contribute at [issues](https://github.com/kryptokinght/django-todo-app/issues)
 
-# Developers
+# Developer
 [Minanshu Singh](https://github.com/kryptokinght) : minanshu.1998@gmail.com
